@@ -37,9 +37,9 @@
 |---|---|---|
 | [**Data_Analytics**](https://github.com/zukhra1/Data_Analytics) | Практические работы по аналитике данных: SQL, A/B-тесты (CUPED, стратификация, бандиты), причинный анализ (PSM), продуктовые метрики и кейс продуктового аналитика | Python, SQL, Pandas |
 | [**myThesis**](https://github.com/zukhra1/myThesis) | Магистерский проект: суммаризация кода на уровне репозиториев с помощью LLM (Naive RAG и GraphRAG) | Python, PyTorch, Transformers |
-| [**Название репозитория**](https://github.com/zukhra1/TM5MLOops) | MLOps: модель конкурентных цен Airbnb | Python, MLflow, Scikit-learn |
-| [**Название репозитория**](https://github.com/zukhra1/DatasetSummarization) | Суммаризация описаний датасетов Kaggle с помощью LLM | Python, LLM |
-| [**Название репозитория**](https://github.com/zukhra1/variable-stars-detector) | Классификация переменных звёзд по кривым блеска | Python, ML/DL |
+| [**TM5MLOops**](https://github.com/zukhra1/TM5MLOops) | MLOps: модель конкурентных цен Airbnb | Python, MLflow, Scikit-learn |
+| [**DatasetSummarization**](https://github.com/zukhra1/DatasetSummarization) | Суммаризация описаний датасетов Kaggle с помощью LLM | Python, LLM |
+| [**variable-stars-detector**](https://github.com/zukhra1/variable-stars-detector) | Классификация переменных звёзд по кривым блеска | Python, ML/DL |
 
 
 ---
